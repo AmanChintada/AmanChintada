@@ -2,9 +2,7 @@
 - I’m interested in Data Science
 
 - I’m currently learning:
-Python and R for data science: Exploring text data, spatial data, and time series data through statistical techniques such as graphical visualization, linear rregression, trees, and clustering.
-Advanced data structures and algorithms including stacks, queues, trees (B,B+,AVL), searching for graphs, hashing, and external sorting.
-Core mathematical concepts that are essential for performing modern data analysis in python.
+The foundations of machine learning to develop models that can perform analyses, interpretations and predictions using basic regressors and classifiers. So far, I have exoerimented with various data wrangling and analytical techniques to explore interesting discoveries in the game of basketballa at the collegiate and professional (NBA) level. I love basketball, so I used my passion for data driven approaches to derive intersting insights into the game.
 
 - You can reach me at achintad@asu.edu
 
